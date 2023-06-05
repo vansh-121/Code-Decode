@@ -12,7 +12,7 @@ Enter your no.here: 1
 
 Enter your secret message: vansh
 
-%$#anshv^@!
+--> %$#anshv^@!
 
 # Decode:
 Welcome sir, what do you want us to do?
@@ -23,6 +23,6 @@ Press 2: Decode
 
 Enter your no.here: 2
 
-Enter your secret message: ^%$vansh^%$
+Enter your secret message: ^%$anshv(*^
 
-hvans
+--> vansh
